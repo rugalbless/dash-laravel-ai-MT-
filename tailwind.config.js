@@ -16,7 +16,7 @@ export default {
         extend: {
             fontFamily: {
                 sans: ['Figtree',...defaultTheme.fontFamily.sans],
-
+                'instrument-sans': ['Instrument Sans', 'sans-serif'],
             },
             backdropFilter: {
                 'none': 'none',

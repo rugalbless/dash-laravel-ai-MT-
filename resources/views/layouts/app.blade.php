@@ -16,8 +16,7 @@
 
     @stack('customer-scripts')
 </head>
-<body class="min-h-screen dark:bg-gradient-to-r from-gray-900 to-gray-600 from-gray-100 to-gray-300
- ">
+<body class="min-h-screen bg-gradient-to-r from-gray-900 to-gray-600 from-gray-100 to-gray-300">
 <div x-data="{ menuVisibility: false }">
     <x-side-bar></x-side-bar>
 
